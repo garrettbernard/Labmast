@@ -6,6 +6,9 @@ PHP
 
 =======
 
+DEMO: http://www.labmast.com
+Beta login = test@labmast.com / test
+
 Software I originally started writing because I thought there was a need for a digital replacement for 
 science lab manuals and notebooks. Initial code was written while also conducting potential consumer 
 feedback. After several hundred collegiate lab instructors were contacted and chatted with me about 
