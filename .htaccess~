@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^home//
+RewriteRule ^home/([^/\.]+)/([^/\.]+)$ /index.php?a=$1&b=$2 [L]
+RewriteRule ^home/([^/\.]+)$ /index.php?a=$1 [L]
