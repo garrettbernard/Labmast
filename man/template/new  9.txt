@@ -1,0 +1,9 @@
+<?php
+
+# footer.php
+
+include("./header.php");
+
+$footer_template->footer();
+
+?>

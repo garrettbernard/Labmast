@@ -1,0 +1,275 @@
+html {
+	margin-bottom:1px;
+	overflow-y: scroll;
+    }
+	
+body {
+    font-family:verdana;
+	font-size:13px;
+	background-color:#406296;
+}
+
+.superscript{font-size:xx-small; vertical-align:top;} 
+.subscript{font-size:xx-small; vertical-align:bottom;}
+.italic{font-style:italic;}
+.smallfont{font-size:9px; }
+
+ 
+hr {
+  border: none;
+  background-color: #000000;
+  color: #B4CBDF;
+  height: 2px;
+  width:80%;
+  margin-top:90px;
+}
+	
+div#container {
+	min-height:300px;
+	background-color:#FFFFFF;
+	width:910px;
+	margin:auto;
+}
+
+img {
+	border:0;
+}
+
+div#header {
+	padding:10px;
+	float:left;
+	
+}
+
+div#header_login {
+	width:200px;
+	float:right;
+	margin-right:100px;
+	margin-top:30px;
+	font-size:10px;
+}
+
+div#teacher_menu {
+	clear:right;
+	width:120px;
+	float:right;
+	margin-right:30px;
+	border:3px #555555 solid;
+	text-align:center;
+	font-size:10px;
+	vertical-align:middle;
+}
+
+div#teacher_menu h5 {
+	font-size:12px;
+}
+
+div#teacher_menu a {
+	text-decoration:none;
+	color:#6E0000;
+}
+
+a.header:hover {
+border-bottom:3px solid blue;
+}
+
+p#header_menu {
+	margin-top:20px;
+	background-image:url("./images/menu_bar_bg.png");
+	margin-left:40px;
+	width:65%;
+	height:40px;
+	font-size:14px;
+	color:#FFFFFF;
+	float:left;
+}
+
+div#header_divider {
+	clear:both;
+	width:100%;
+}
+
+div#homepage-login {
+	margin-left:40%;
+}
+
+div#homepage-menu {
+	clear:both;
+	width:450px;
+	margin:auto;
+}
+
+div#homepage-menu p {
+	padding-left:35px;
+	padding-right:25px;
+	float:left;
+}
+
+div#homepage-menu a {
+	border:0;
+}
+
+div#homepage {
+	width:75%;
+	margin:auto;
+}
+
+div#footer {
+	clear:both;
+	font-size:9px;
+	color:#FFFFFF;
+	width:99%;
+	background-color:#6E0000;
+	text-align:center;
+	margin:auto;
+}
+
+div#courses {
+	clear:both;
+	margin-left:30px;
+	width:90%;
+}
+
+div#lab_title {
+	font-size:16px;
+	font-weight:bold;
+	margin:auto;
+	text-align:center;
+}
+
+div#lab_author {
+	font-size:9.5px;
+	margin:auto;
+	text-align:center;
+}
+
+div#lab_container {
+	clear:both;
+	width:95%;
+	margin:auto;
+}
+
+div#lab_objectives_supplies {
+	float:left;
+	width:32%;
+	padding-right:15px;
+}
+
+div#lab_safety_background {
+	float:left;
+	width:62%;
+}
+
+div.lab_left_title {
+	float:left;
+	border-bottom:2px solid #000000;
+	width:26%;
+}
+
+div.lab_right_article {
+	float:right;
+	width:68%;
+}
+
+div.equation {
+	font-weight:bold;
+	font-size:11px;
+	padding-left:40px;
+	padding-top:10px;
+	padding-bottom:20px;
+	display:block;
+}
+
+div#prelab_header {
+	border-bottom:2px #000000 solid;
+}
+
+div#form {
+	line-height:200%;
+}
+
+div#register {
+	clear:both;
+	margin:auto;
+	width:95%;
+}
+
+div#register td {
+	line-height:220%;
+}
+
+div#cp-courses {
+	clear:both;
+	margin:auto;
+	width:95%;
+}
+
+div#cp-courses-heading {
+	width:40%;
+	float:left;
+}
+
+div#cp-courses-studentlist {
+	width:50%;
+	float:right;
+	border-left:2px #000000 solid;
+	padding-bottom:100px;
+	text-align:center;
+}
+
+
+div#cp-courses-lablist {
+	clear:both;
+	margin:auto;
+	margin-top:40px;
+}
+
+div#cp-labs_section_menu {
+	margin:auto;
+	text-align:center;
+	padding-bottom:30px;
+}
+
+div#cp-labs_section_menu  a {
+	color:blue;
+	font-size:14px;
+}
+
+div#cp-labs_showdata {
+	width:80%;
+	border:1px #000000 solid;
+	padding:10px;
+	margin-top:20px;
+	margin:auto;
+}
+
+div#cp-editlabs-addnewlab {
+	min-height:80px;
+	width:90%;
+	margin:auto;
+}
+
+span.editbutton {
+	float:right;
+	padding-top:15px;
+	padding-right:30px;
+}
+
+span.assignment_response {
+	display:block;
+	padding-left:70px;
+	margin-bottom:30px;
+	font-weight:bold;
+	color:red;
+	max-width:500px;
+}
+
+div#footer a {
+	color:#FFFFFF;
+}
+
+.cke_contents{
+height: 700px !important;
+width: 550px !important;
+}
+
